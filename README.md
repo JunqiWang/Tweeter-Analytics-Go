@@ -1,2 +1,2 @@
-dynamo-tweets-goversion
+Tweeter-Analytics-Go
 =======================
