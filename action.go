@@ -11,7 +11,7 @@ func index(val string) string {
 
 func hello(val string) string {
     return "Dynamos 0000-0000-0000\n" + 
-	    time.Now().Format("2006-01-02 15:04:05") + "\n"
+	    time.Now().Format("2006-01-02 15:04:05")
 } 
 
 func main() {
